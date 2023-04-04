@@ -7,7 +7,7 @@ module.exports = {
     
     extend: {
       colors: {
-        'site-blue': '#e2fffb',
+        'site-blue': '#122E4E',
         'button-green': '#37AEA0'
       },
     },
